@@ -1,0 +1,48 @@
+C:\Users\Linn Thit\source\repos\LinnThitWinZayarBhoneMyintAssgt\bin\Debug\LinnThitWinZayarBhoneMyintAssgt.exe.config
+C:\Users\Linn Thit\source\repos\LinnThitWinZayarBhoneMyintAssgt\bin\Debug\LinnThitWinZayarBhoneMyintAssgt.exe
+C:\Users\Linn Thit\source\repos\LinnThitWinZayarBhoneMyintAssgt\bin\Debug\LinnThitWinZayarBhoneMyintAssgt.pdb
+C:\Users\Linn Thit\source\repos\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.csproj.AssemblyReference.cache
+C:\Users\Linn Thit\source\repos\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.Form1.resources
+C:\Users\Linn Thit\source\repos\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.Properties.Resources.resources
+C:\Users\Linn Thit\source\repos\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.csproj.GenerateResource.cache
+C:\Users\Linn Thit\source\repos\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.csproj.CoreCompileInputs.cache
+C:\Users\Linn Thit\source\repos\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.exe
+C:\Users\Linn Thit\source\repos\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.pdb
+C:\Users\Linn Thit\Desktop\LinnThitWinZayarBhoneMyintAssgt\bin\Debug\LinnThitWinZayarBhoneMyintAssgt.exe.config
+C:\Users\Linn Thit\Desktop\LinnThitWinZayarBhoneMyintAssgt\bin\Debug\LinnThitWinZayarBhoneMyintAssgt.exe
+C:\Users\Linn Thit\Desktop\LinnThitWinZayarBhoneMyintAssgt\bin\Debug\LinnThitWinZayarBhoneMyintAssgt.pdb
+C:\Users\Linn Thit\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.csproj.AssemblyReference.cache
+C:\Users\Linn Thit\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.Form1.resources
+C:\Users\Linn Thit\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.Properties.Resources.resources
+C:\Users\Linn Thit\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.csproj.GenerateResource.cache
+C:\Users\Linn Thit\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.csproj.CoreCompileInputs.cache
+C:\Users\Linn Thit\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.exe
+C:\Users\Linn Thit\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.pdb
+C:\Users\Linn Thit\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.Resource1.resources
+C:\Users\B2HD\Desktop\LinnThitWinZayarBhoneMyintAssgt\bin\Debug\LinnThitWinZayarBhoneMyintAssgt.exe.config
+C:\Users\B2HD\Desktop\LinnThitWinZayarBhoneMyintAssgt\bin\Debug\LinnThitWinZayarBhoneMyintAssgt.exe
+C:\Users\B2HD\Desktop\LinnThitWinZayarBhoneMyintAssgt\bin\Debug\LinnThitWinZayarBhoneMyintAssgt.pdb
+C:\Users\B2HD\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.csproj.AssemblyReference.cache
+C:\Users\B2HD\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.Form1.resources
+C:\Users\B2HD\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.Properties.Resources.resources
+C:\Users\B2HD\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.Resource1.resources
+C:\Users\B2HD\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.csproj.GenerateResource.cache
+C:\Users\B2HD\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.csproj.CoreCompileInputs.cache
+C:\Users\B2HD\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.exe
+C:\Users\B2HD\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.pdb
+C:\Users\B2HD\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.Form2.resources
+C:\Users\B2HD\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.Form4.resources
+C:\Users\B2HD\Desktop\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.Form3.resources
+C:\Users\Linn Thit\Downloads\LinnThitWinZayarBhoneMyintAssgt\LinnThitWinZayarBhoneMyintAssgt\bin\Debug\LinnThitWinZayarBhoneMyintAssgt.exe.config
+C:\Users\Linn Thit\Downloads\LinnThitWinZayarBhoneMyintAssgt\LinnThitWinZayarBhoneMyintAssgt\bin\Debug\LinnThitWinZayarBhoneMyintAssgt.exe
+C:\Users\Linn Thit\Downloads\LinnThitWinZayarBhoneMyintAssgt\LinnThitWinZayarBhoneMyintAssgt\bin\Debug\LinnThitWinZayarBhoneMyintAssgt.pdb
+C:\Users\Linn Thit\Downloads\LinnThitWinZayarBhoneMyintAssgt\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.csproj.AssemblyReference.cache
+C:\Users\Linn Thit\Downloads\LinnThitWinZayarBhoneMyintAssgt\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.Form1.resources
+C:\Users\Linn Thit\Downloads\LinnThitWinZayarBhoneMyintAssgt\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.Form2.resources
+C:\Users\Linn Thit\Downloads\LinnThitWinZayarBhoneMyintAssgt\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.Form3.resources
+C:\Users\Linn Thit\Downloads\LinnThitWinZayarBhoneMyintAssgt\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.Properties.Resources.resources
+C:\Users\Linn Thit\Downloads\LinnThitWinZayarBhoneMyintAssgt\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.Resource1.resources
+C:\Users\Linn Thit\Downloads\LinnThitWinZayarBhoneMyintAssgt\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.csproj.GenerateResource.cache
+C:\Users\Linn Thit\Downloads\LinnThitWinZayarBhoneMyintAssgt\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.csproj.CoreCompileInputs.cache
+C:\Users\Linn Thit\Downloads\LinnThitWinZayarBhoneMyintAssgt\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.exe
+C:\Users\Linn Thit\Downloads\LinnThitWinZayarBhoneMyintAssgt\LinnThitWinZayarBhoneMyintAssgt\obj\Debug\LinnThitWinZayarBhoneMyintAssgt.pdb
